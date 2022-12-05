@@ -1,0 +1,31 @@
+h1 {
+    font-weight: bold;
+    color: darkslategray;
+    background-color: burlywood;
+    padding: 20px;
+}
+
+h2 {
+    color: darkslategray;
+}
+
+table {
+    border-style: solid;
+    border-color: darkslategray;
+}
+
+th {
+    border-style: solid;
+    border-color: darkslategray;
+}
+
+td {
+    border-style: solid;
+    border-color: darkslategray;
+}
+
+.code {
+    background-color: blanchedalmond;
+    font-family: "Roboto Mono";
+    line-height: 0.5;
+}
